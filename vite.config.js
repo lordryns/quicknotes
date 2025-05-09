@@ -12,7 +12,7 @@ export default defineConfig({
         name: 'Quick Notes',
         short_name: 'QuickNotes',
         description: 'Lightweight note app for the web.',
-        theme_color: '#ffffff',
+        theme_color: '#1C1C21',
         background_color: '#ffffff',
         display: 'standalone',
         icons: [
